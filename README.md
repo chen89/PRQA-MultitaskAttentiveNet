@@ -9,4 +9,4 @@ Download pre-trained embedding dictionary "glove.twitter.27B.50d.txt" on https:/
 python MAIN.py
 
 # Note
-The "data path" and "model parameters" can be set at the top lines of MAIN.py.
+Set "data path" and "model parameters" at the top lines of MAIN.py.
